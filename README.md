@@ -1,6 +1,6 @@
 # Gravity-Trails
 Hi, here are the controls;
 [Space] Gravity Flip
-> Right
-< Left
+ Right
+ Left
 [Left click] Shoot
